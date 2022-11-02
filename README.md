@@ -26,6 +26,8 @@ Blockchains themselves do not have a single controlling body, because of this al
 
 *Layer-3*
 
+## DLT Systems:
+
 **So, what the junk is all of this? and what benefits do they serve for us as Investors?**
 
 For us investors we get to understand how our assets would essentially scale, as we own a part of this chains currency, in some cases even have voting rights for further development. Understanding the core of the technology allows ones to analyze what's a flop and what's not.
