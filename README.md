@@ -101,6 +101,8 @@ The last layer of the blockchain ecosystem and the one visible to the human eye.
 
 L3 not only provides UI, but also utility in the form of intra- and inter-chain operability, such as decentralized exchanges, liquidity provisioning, and staking applications. Decentralized apps (dApps) are a type of layer 3 interface that provides real-world applications for blockchain technology.
 
+## END
+
 Congratulations! You have made it to the end of this breakdown. With this guide you should be able to handle any conversation about DLT Systems, and most importantly, make the right investing decisions based off data you gather.
 
 This is still a very complex topic, my models I provided are only considered by a small amount of individuals, professionals and educational institutions.
