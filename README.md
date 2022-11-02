@@ -1,8 +1,7 @@
 # Layering-Architecture-Blockchain
-## Layering Architecture of Blockchain
 
 
-**Part 1**
+**Summary**
 ------------------------------------
 Blockchains themselves do not have a single controlling body, because of this all transactions must be safe, and data must be securely maintained on a distributed ledger. The distributed ledger technology (DLT) follows a predetermined protocol, where multiple computers (or nodes) throughout the network come to a “consensus” to confirm transactional data. As new entries arrive, each node adds, examines, and changes them. To allow this unique kind of transaction authentication, blockchains feature a layered design.
 
